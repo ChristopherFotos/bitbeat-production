@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b35797ab.chunk.css",
+    "main.js": "/static/js/main.41b38243.chunk.js",
+    "main.js.map": "/static/js/main.41b38243.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0242efe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0242efe.js.map",
+    "static/js/2.3f60a557.chunk.js": "/static/js/2.3f60a557.chunk.js",
+    "static/js/2.3f60a557.chunk.js.map": "/static/js/2.3f60a557.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b35797ab.chunk.css.map": "/static/css/main.b35797ab.chunk.css.map",
+    "static/js/2.3f60a557.chunk.js.LICENSE.txt": "/static/js/2.3f60a557.chunk.js.LICENSE.txt",
+    "static/media/down-arrow-light.537dc72d.svg": "/static/media/down-arrow-light.537dc72d.svg",
+    "static/media/down-arrow.491f2dd1.svg": "/static/media/down-arrow.491f2dd1.svg",
+    "static/media/floppy-disk.92be8120.svg": "/static/media/floppy-disk.92be8120.svg",
+    "static/media/pause-btn.2b3135b9.svg": "/static/media/pause-btn.2b3135b9.svg",
+    "static/media/play-btn.c80694b7.svg": "/static/media/play-btn.c80694b7.svg",
+    "static/media/up-arrow-light.fee76e30.svg": "/static/media/up-arrow-light.fee76e30.svg",
+    "static/media/up-arrow.71003ba5.svg": "/static/media/up-arrow.71003ba5.svg",
+    "static/media/x.c7bd7f24.svg": "/static/media/x.c7bd7f24.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0242efe.js",
+    "static/js/2.3f60a557.chunk.js",
+    "static/css/main.b35797ab.chunk.css",
+    "static/js/main.41b38243.chunk.js"
+  ]
+}
